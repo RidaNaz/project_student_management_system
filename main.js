@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 class School {
     addStudent(stdobj) {
         this.students.push(stdobj);
